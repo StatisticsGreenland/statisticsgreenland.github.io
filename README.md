@@ -8,4 +8,5 @@
 [statgl](https://statisticsgreenland.github.io/statgl/) & [cheat sheet](https://stat.gl/pxmake/2023_11_06_statgl_pres.html)
 
 
+<hr>
 updated august 27, 2024
