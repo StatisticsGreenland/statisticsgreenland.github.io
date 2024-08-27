@@ -1,5 +1,5 @@
 
-## Welcome to Statistics Greenland
+## Tools for R
 
 ### Create multilingual px-files
 [pxmake](https://statisticsgreenland.github.io/pxmake/)
