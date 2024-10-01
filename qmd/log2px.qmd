@@ -25,7 +25,7 @@ editor: visual
 
 This note will be presented at the annual PX-meeting in Skopje, North Macedonia, (November 7th, 2024)
 
-Title: pxmake - multilingual px files with R, 2024 ([download this script](log2px.qmd){download="log2px.qmd"})
+Title: pxmake - multilingual px files with R, 2024 ([download this script](https://statisticsgreenland.github.io/qmd/log2px.qmd))
 
 # PXWeb-logfiles
 
