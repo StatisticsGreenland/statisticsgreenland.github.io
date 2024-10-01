@@ -10,6 +10,7 @@
 ### Use cases
 [Pxweb logfiles](https://stat.gl/pxmake/log2px.html)
 
+[BEXPALL All previous population projections in one table](https://stat.gl/pxmake/combine2bexpall.html)
 
 <hr>
 updated september 30, 2024
