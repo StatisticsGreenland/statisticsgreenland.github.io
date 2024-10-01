@@ -13,4 +13,4 @@
 [BEXPALL All previous population projections in one table](https://stat.gl/pxmake/combine2bexpall.html)
 
 <hr>
-updated september 30, 2024
+updated October 1st, 2024
