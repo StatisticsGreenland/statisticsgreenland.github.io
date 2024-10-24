@@ -2,9 +2,7 @@
 
 ### Create multilingual px-files
 
-<div style="position: relative;">
-  <img src="https://github.com/StatisticsGreenland/pxmake/blob/main/man/figures/logo.png" alt="https://github.com/StatisticsGreenland/pxmake" style="position: absolute; top: 0; right: 0; width: 100px;">
-</div>
+<img src="https://github.com/StatisticsGreenland/pxmake/blob/main/man/figures/logo.png">
 
 [read articles](https://statisticsgreenland.github.io/pxmake/)
 
