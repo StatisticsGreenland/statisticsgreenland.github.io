@@ -2,7 +2,7 @@
 
 ### Create multilingual px-files
 
-[!](https://stat.gl/pxmake/pxmakelogo.png)
+![](https://stat.gl/pxmake/pxmakelogo.png)
 
 [read articles](https://statisticsgreenland.github.io/pxmake/)
 
