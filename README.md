@@ -2,9 +2,12 @@
 
 ### Create multilingual px-files
 
-![](https://stat.gl/pxmake/pxmakelogo.png)
+<a href="https://statisticsgreenland.github.io/pxmake/"><img src="https://stat.gl/pxmake/pxmakelogo.png" align="left" height="99" alt="pxmake website" /></a>
 
 [read articles](https://statisticsgreenland.github.io/pxmake/)
+
+<br/><br/><br/>
+<hr>
 
 ### Query any Pxweb-based site
 [statgl](https://github.com/StatisticsGreenland/statgl) & [Cheat Sheet](https://stat.gl/pxmake/2023_11_06_statgl_pres.html)
