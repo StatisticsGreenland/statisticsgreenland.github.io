@@ -11,7 +11,7 @@
 
 ### Query any Pxweb-based site
 
-<a href="https://github.com/StatisticsGreenland/statgl/"><img src="https://stat.gl/pxmake/statgllogo.png" align="left" height="99" alt="statgl github" /></a>
+<a href="https://github.com/StatisticsGreenland/statgl/?tab=readme-ov-file#readme/"><img src="https://stat.gl/pxmake/statgllogo.png" align="left" height="99" alt="statgl github" /></a>
 
 [Cheat Sheet - presentation](https://stat.gl/pxmake/2023_11_06_statgl_pres.html)
 
