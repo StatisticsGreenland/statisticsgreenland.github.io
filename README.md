@@ -10,7 +10,13 @@
 <hr>
 
 ### Query any Pxweb-based site
-[statgl](https://github.com/StatisticsGreenland/statgl) & [Cheat Sheet](https://stat.gl/pxmake/2023_11_06_statgl_pres.html)
+
+<a href="https://github.com/StatisticsGreenland/statgl/"><img src="https://stat.gl/pxmake/statgllogo.png" align="left" height="99" alt="statgl github" /></a>
+
+[Cheat Sheet - presentation](https://stat.gl/pxmake/2023_11_06_statgl_pres.html)
+
+<br/><br/><br/>
+<hr>
 
 ### Use Cases
 - [Pxweb logfiles](https://stat.gl/pxmake/log2px.html)
