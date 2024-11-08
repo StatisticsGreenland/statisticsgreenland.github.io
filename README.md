@@ -18,6 +18,13 @@
 <br/><br/><br/>
 <hr>
 
+
+[Slides from talk at the 33rd international px meeting in Skopje, November, 7th](https://stat.gl/pxmake/pxmake2024.html)  
+(has been recorded, waiting to be released)  
+<br/><br/><br/>
+<hr>
+
+
 ### Use Cases
 - [PXWin in action ](https://stat.gl/pxmake/pxwinr.html)
 - [Pxweb logfiles](https://stat.gl/pxmake/log2px.html)
@@ -26,4 +33,4 @@
 
 <hr>
 
-<p align="right"><small>Updated: November 4th, 2024</small></p>
+<p align="right"><small>Updated: November 8th, 2024</small></p>
