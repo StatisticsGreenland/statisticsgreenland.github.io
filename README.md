@@ -31,7 +31,8 @@
 - [BEXPALL: All previous population projections in one table](https://stat.gl/pxmake/combine2bexpall.html)
 - [UN Demographic Yearbook, Greenland](https://stat.gl/pxmake/UNDemYear_PE_all.html)
 - [Simple edit in one file or all files in a folder](https://stat.gl/pxmake/simpleedit.html)
+- [Pivot](https://stat.gl/pxmake/pivot.html)
 
 <hr>
 
-<p align="right"><small>Updated: November 15th, 2024</small></p>
+<p align="right"><small>Updated: November 16th, 2024</small></p>
