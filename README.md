@@ -20,7 +20,7 @@
 
 
 [Slides from talk at the 33rd international px meeting in Skopje, November, 7th](https://stat.gl/pxmake/pxmake2024.html)  
-(has been recorded, waiting to be released)  
+(turned out, the recording was useless, I'll try to do a new version, for pXmas)  
 <br/><br/><br/>
 <hr>
 
