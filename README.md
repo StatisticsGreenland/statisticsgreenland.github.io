@@ -32,6 +32,9 @@
 - [UN Demographic Yearbook, Greenland](https://stat.gl/pxmake/UNDemYear_PE_all.html)
 - [Simple edit in one file or all files in a folder](https://stat.gl/pxmake/simpleedit.html)
 - [Pivot](https://stat.gl/pxmake/pivot.html)
+- [Register based statistics](https://statisticsgreenland.github.io/qmd/register_based_statistics.html)
+- [Statistics Greenland (from 'pxmake')](https://statisticsgreenland.github.io/qmd/statistics_greenland.html)
+
 
 <hr>
 
