@@ -1,7 +1,8 @@
 ## Tools for R
 
 ### Create multilingual px-files
-
+[Now on CRAN](https://cran.r-project.org/web/packages/pxmake/index.html)  
+<br/><br/>
 <a href="https://statisticsgreenland.github.io/pxmake/"><img src="https://stat.gl/pxmake/pxmakelogo.png" align="left" height="99" alt="pxmake website" /></a>
 
 [read articles](https://statisticsgreenland.github.io/pxmake/)
@@ -17,13 +18,6 @@
 
 <br/><br/><br/>
 <hr>
-
-
-[Slides from talk at the 33rd international px meeting in Skopje, November, 7th](https://stat.gl/pxmake/pxmake2024.html)  
-(turned out, the recording was useless, I'll try to do a new version, for pXmas)  
-<br/><br/><br/>
-<hr>
-
 
 ### Use Cases
 - [PXWin in action ](https://stat.gl/pxmake/pxwinr.html)
