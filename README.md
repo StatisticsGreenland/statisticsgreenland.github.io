@@ -2,7 +2,7 @@
 
 ### Create multilingual px-files
 [Now on CRAN](https://cran.r-project.org/web/packages/pxmake/index.html)  
-[Intro, from PX meeting in Skopje, November2024](2024-11-07_pxmake-Skopje_intro.MOV)  
+[Intro, from PX meeting in Skopje, November2024](https://stat.gl/pxmake/2024-11-07_pxmake-Skopje_intro.MOV)  
 <br/><br/>
 <a href="https://statisticsgreenland.github.io/pxmake/"><img src="https://stat.gl/pxmake/pxmakelogo.png" align="left" height="99" alt="pxmake website" /></a>
 [read articles](https://statisticsgreenland.github.io/pxmake/)
