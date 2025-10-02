@@ -4,6 +4,7 @@
 [On CRAN](https://cran.r-project.org/web/packages/pxmake/index.html)  
 [Download statistics ](https://stat.gl/pxmake/daily_downloads.png)  
 [Learning material ](https://thranholm.quarto.pub/px-and-r/)  
+[The cheatsheet ](https://stat.gl/pxmake/pxmake_cheatsheet.pdf)  
 
 [Intro, from PX meeting in Skopje, November2024](https://stat.gl/pxmake/2024-11-07_pxmake-Skopje_intro.MOV)  
 <br/><br/>
